@@ -5,7 +5,7 @@ Este projeto é um exemplo de aplicação Java utilizando Spring Boot, MySQL com
 ## Requisitos
 
 - Java 8 ou superior
-- Spring Boot 2.x
+- Spring Boot 3.x
 - MySQL
 - JUnit 4 ou 5
 
